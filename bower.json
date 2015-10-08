@@ -1,0 +1,19 @@
+{
+  "name": "usine",
+  "main": "usine.js",
+  "version": "0.0.1",
+  "authors": [
+    "jaune <JauneLaCouleur@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "~3.0.7"
+  }
+}
